@@ -37,6 +37,10 @@ If you would like to get started quickly with a test deployment of the
 Autoscaler, you can deploy to [Cloud Run functions in a single
 project][single-project-deployment].
 
+*Disclaimer: This a copy/fork for display of work purposes. If you are
+interested in using and/or contributing to this project, refer to the
+[original source](https://github.com/GoogleCloudPlatform/cloud-solutions/tree/main/projects/alloydb-autoscaler).*
+
 ## Architecture
 
 ![architecture-abstract](resources/architecture-abstract.png)
